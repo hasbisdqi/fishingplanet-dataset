@@ -1,8 +1,6 @@
-# Fishing Planet Scraped Dataset & Log App Assets
+# Fishing Planet Scraped Dataset
 
-Dataset lengkap ikan (*fish*) dan peralatan pancing (*gear / tackle*) yang di-scrape langsung dari [Fishing Planet Wiki](https://wiki.fishingplanet.com/wiki/).
-
-Proyek ini juga mencakup skrip scraper otomatis berbasis Node.js serta konsep UI/UX mobile mockup berbasis **Bento Grid** untuk aplikasi **Fishing Planet Catch & Gear Log**.
+Dataset lengkap spesies ikan (*fish*) dan peralatan pancing (*gear / tackle*) yang di-scrape langsung dari [Fishing Planet Wiki](https://wiki.fishingplanet.com/wiki/).
 
 ---
 
@@ -10,7 +8,7 @@ Proyek ini juga mencakup skrip scraper otomatis berbasis Node.js serta konsep UI
 
 | File | Keterangan | Total Entri |
 |---|---|---|
-| `fish.json` | Seluruh spesies ikan di game Fishing Planet | 340 spesies |
+| `fish.json` | Seluruh spesies ikan di Fishing Planet | 340 spesies |
 | `gear.json` | Seluruh tackle & perlengkapan pancing | 1.338 item |
 | `fishingplanet_all.json` | Gabungan data ikan dan gear | 1.678 item |
 
@@ -39,7 +37,7 @@ Proyek ini juga mencakup skrip scraper otomatis berbasis Node.js serta konsep UI
 }
 ```
 
-### Cakupan Kategori Gear:
+### Kategori Gear:
 - **Rods** (239 item)
 - **Reels** (157 item)
 - **Lines** (43 item)
@@ -53,23 +51,3 @@ Proyek ini juga mencakup skrip scraper otomatis berbasis Node.js serta konsep UI
 - **Equipment** (253 item)
 - **Transport** (58 item)
 - **Other** (5 item)
-
----
-
-## 📱 Mobile UI Concept: Catch Log (Bento Grid)
-
-Folder `mockups/` berisi rancangan antarmuka mobile untuk mencatat hasil tangkapan ikan lengkap beserta kombinasi gear dan kondisi cuaca saat ikan terpancing.
-
-- `mockups/bento_catch_detail.html`: Standalone HTML prototype dengan Tailwind CSS.
-- `mockups/bento_preview.png`: Screenshot tampilan mockup.
-
----
-
-## 🛠️ Menjalankan Scraper Ulang
-
-Jika wiki diperbarui di masa mendatang, scraper dapat dijalankan kembali:
-
-```bash
-# Menjalankan scraper
-node run_scraper.js
-```

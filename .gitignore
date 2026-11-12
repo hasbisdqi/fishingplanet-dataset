@@ -3,3 +3,5 @@ node_modules/
 .DS_Store
 fishingplanet_scraped.tar.gz
 fishingplanet_json.zip
+*.js
+mockups/
