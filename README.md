@@ -1,6 +1,6 @@
 # Fishing Planet Scraped Dataset
 
-Dataset lengkap spesies ikan (*fish*) dan peralatan pancing (*gear / tackle*) yang di-scrape langsung dari [Fishing Planet Wiki](https://wiki.fishingplanet.com/wiki/).
+Dataset lengkap spesies ikan (*fish*), peralatan pancing (*gear / tackle*), dan lokasi/peta perairan (*maps / waterways*) yang di-scrape langsung dari [Fishing Planet Wiki](https://wiki.fishingplanet.com/wiki/).
 
 ---
 
@@ -10,11 +10,14 @@ Dataset lengkap spesies ikan (*fish*) dan peralatan pancing (*gear / tackle*) ya
 |---|---|---|
 | `fish.json` | Seluruh spesies ikan di Fishing Planet | 340 spesies |
 | `gear.json` | Seluruh tackle & perlengkapan pancing | 1.277 item |
-| `fishingplanet_all.json` | Gabungan data ikan dan gear | 1.617 item |
+| `maps.json` | Seluruh peta/lokasi danau, sungai, dan laut | 28 map |
+| `fishingplanet_all.json` | Gabungan data ikan, gear, dan map | 1.645 item |
 
-### Skema Data
+---
 
-#### Ikan (`fish.json`)
+## 📋 Skema Data
+
+### 1. Ikan (`fish.json`)
 ```json
 {
   "name": "Butterfly Peacock Bass",
@@ -25,7 +28,7 @@ Dataset lengkap spesies ikan (*fish*) dan peralatan pancing (*gear / tackle*) ya
 }
 ```
 
-#### Gear / Tackle (`gear.json`)
+### 2. Gear / Tackle (`gear.json`)
 ```json
 {
   "name": "MagFin™ FeatherLight",
@@ -34,5 +37,36 @@ Dataset lengkap spesies ikan (*fish*) dan peralatan pancing (*gear / tackle*) ya
   "url": "https://wiki.fishingplanet.com/wiki/Spinning_rods",
   "image": "https://wiki.fishingplanet.com/images/f/f9/FeatherLight.png",
   "description": "Part of our PrimeSpinn® lux line rod segment..."
+}
+```
+
+### 3. Maps / Waterways (`maps.json`)
+```json
+{
+  "name": "Lone Star Lake - Texas",
+  "region": "North America",
+  "locationCountry": "Texas",
+  "url": "https://wiki.fishingplanet.com/wiki/Lone_Star_Lake_-_Texas",
+  "image": "https://wiki.fishingplanet.com/images/5/56/LoneStarLake.jpg",
+  "requiredLevel": 2,
+  "fees": {
+    "travel": "FREE",
+    "daily": "FREE"
+  },
+  "description": "Lone Star Lake is your quiet spot in the heart of the Texas countryside...",
+  "pegs": [
+    {
+      "name": "Home Sweet Home",
+      "description": "This cozy house was built for true angling enthusiasts..."
+    }
+  ],
+  "fishSpecies": [
+    {
+      "name": "Guadalupe Bass",
+      "rarityFound": "Common Trophy Unique",
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/91/Guadalupe_Bass.png/300px-Guadalupe_Bass.png",
+      "url": "https://wiki.fishingplanet.com/wiki/Guadalupe_Bass"
+    }
+  ]
 }
 ```
