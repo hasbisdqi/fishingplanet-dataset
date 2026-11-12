@@ -9,8 +9,8 @@ Dataset lengkap spesies ikan (*fish*) dan peralatan pancing (*gear / tackle*) ya
 | File | Keterangan | Total Entri |
 |---|---|---|
 | `fish.json` | Seluruh spesies ikan di Fishing Planet | 340 spesies |
-| `gear.json` | Seluruh tackle & perlengkapan pancing | 1.338 item |
-| `fishingplanet_all.json` | Gabungan data ikan dan gear | 1.678 item |
+| `gear.json` | Seluruh tackle & perlengkapan pancing | 1.277 item |
+| `fishingplanet_all.json` | Gabungan data ikan dan gear | 1.617 item |
 
 ### Skema Data
 
@@ -36,18 +36,3 @@ Dataset lengkap spesies ikan (*fish*) dan peralatan pancing (*gear / tackle*) ya
   "description": "Part of our PrimeSpinn® lux line rod segment..."
 }
 ```
-
-### Kategori Gear:
-- **Rods** (239 item)
-- **Reels** (157 item)
-- **Lines** (43 item)
-- **Rig** (58 item)
-- **Bobbers & Fishing Alarm** (37 item)
-- **Hooks** (72 item)
-- **Sinker & Feeders** (55 item)
-- **Lures** (95 item)
-- **Baits** (195 item)
-- **Groundbaits** (69 item)
-- **Equipment** (253 item)
-- **Transport** (58 item)
-- **Other** (5 item)
