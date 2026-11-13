@@ -9,9 +9,9 @@ Dataset lengkap spesies ikan (*fish*), peralatan pancing (*gear / tackle*), dan 
 | File | Keterangan | Total Entri |
 |---|---|---|
 | `fish.json` | Seluruh spesies ikan di Fishing Planet | 340 spesies |
-| `gear.json` | Seluruh tackle & perlengkapan pancing | 1.277 item |
+| `gear.json` | Seluruh tackle & perlengkapan pancing (100% with image) | 1.413 item |
 | `maps.json` | Seluruh peta/lokasi danau, sungai, dan laut | 28 map |
-| `fishingplanet_all.json` | Gabungan data ikan, gear, dan map | 1.645 item |
+| `fishingplanet_all.json` | Gabungan data ikan, gear, dan map | 1.781 item |
 
 ---
 

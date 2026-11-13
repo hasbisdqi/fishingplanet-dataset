@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-12T13:38:33.165Z",
+  "scraped_at": "2026-11-13T14:52:31.294Z",
   "total_fish": 340,
-  "total_gear": 1277,
+  "total_gear": 1413,
   "total_maps": 28,
   "fish": [
     {
@@ -4791,23 +4791,87 @@
       "category": "Lines",
       "subCategory": "Monofilament lines",
       "url": "https://wiki.fishingplanet.com/wiki/Monofilament_fishing_lines",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/eb/376.png/120px-376.png",
       "description": "Garry Scott™ All-round mono fishing line"
+    },
+    {
+      "name": "UL-CHUBER™ Carp mono fishing line",
+      "category": "Lines",
+      "subCategory": "Monofilament lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Monofilament_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/f9/6122.png/120px-6122.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series mono fishing line",
+      "category": "Lines",
+      "subCategory": "Monofilament lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Monofilament_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d1/3083-2.png/120px-3083-2.png",
+      "description": ""
+    },
+    {
+      "name": "Invisible line",
+      "category": "Lines",
+      "subCategory": "Monofilament lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Monofilament_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/77/4842.png/120px-4842.png",
+      "description": ""
+    },
+    {
+      "name": "Trophy Mono",
+      "category": "Lines",
+      "subCategory": "Monofilament lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Monofilament_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/58/5074.png/120px-5074.png",
+      "description": ""
+    },
+    {
+      "name": "Catfish Moustache Line",
+      "category": "Lines",
+      "subCategory": "Monofilament lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Monofilament_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/55/13085.png/120px-13085.png",
+      "description": ""
     },
     {
       "name": "Garry Scott™ All-round fluorocarbon fishing line",
       "category": "Lines",
       "subCategory": "Fluorocarbon lines",
       "url": "https://wiki.fishingplanet.com/wiki/Fluorocarbon_fishing_lines",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/1/1f/382.png/110px-382.png",
       "description": "Garry Scott™ All-round fluorocarbon fishing line"
+    },
+    {
+      "name": "X-Series fluorocarbon fishing line",
+      "category": "Lines",
+      "subCategory": "Fluorocarbon lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Fluorocarbon_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/58/3085-2.png/120px-3085-2.png",
+      "description": ""
+    },
+    {
+      "name": "Ivent line",
+      "category": "Lines",
+      "subCategory": "Fluorocarbon lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Fluorocarbon_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/ee/4992.png/120px-4992.png",
+      "description": ""
+    },
+    {
+      "name": "Trophy Fluoro",
+      "category": "Lines",
+      "subCategory": "Fluorocarbon lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Fluorocarbon_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/0/0d/5072.png/120px-5072.png",
+      "description": ""
     },
     {
       "name": "MagFin™ All-round braid fishing line",
       "category": "Lines",
       "subCategory": "Braided lines",
       "url": "https://wiki.fishingplanet.com/wiki/Braided_fishing_lines",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/f3/385.png/120px-385.png",
       "description": "MagFin™ All-round braid fishing line"
     },
     {
@@ -4815,15 +4879,55 @@
       "category": "Lines",
       "subCategory": "Braided lines",
       "url": "https://wiki.fishingplanet.com/wiki/Braided_fishing_lines",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/7f/1598.png/120px-1598.png",
       "description": "MagFin™ UL Pro Serie braid fishing line"
+    },
+    {
+      "name": "UL-CHUBER™ Carp braid fishing line",
+      "category": "Lines",
+      "subCategory": "Braided lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Braided_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/ce/6066.png/120px-6066.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series braid fishing line",
+      "category": "Lines",
+      "subCategory": "Braided lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Braided_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/a/a0/3087.png/120px-3087.png",
+      "description": ""
+    },
+    {
+      "name": "Vein Line",
+      "category": "Lines",
+      "subCategory": "Braided lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Braided_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/1/1a/4990.png/120px-4990.png",
+      "description": ""
+    },
+    {
+      "name": "Dark Hornwort Fiber Line",
+      "category": "Lines",
+      "subCategory": "Braided lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Braided_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/b/ba/7742.png/120px-7742.png",
+      "description": ""
+    },
+    {
+      "name": "Trophy Braid",
+      "category": "Lines",
+      "subCategory": "Braided lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Braided_fishing_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/7b/5070.png/120px-5070.png",
+      "description": ""
     },
     {
       "name": "Fletch and Bradford™ OceanPower Mono",
       "category": "Lines",
       "subCategory": "Saltwater lines",
       "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8a/12407.png/120px-12407.png",
       "description": "Fletch and Bradford™ OceanPower Mono"
     },
     {
@@ -4831,8 +4935,24 @@
       "category": "Lines",
       "subCategory": "Saltwater lines",
       "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/e0/13541.png/120px-13541.png",
       "description": "Fletch and Bradford™ CrystalPower Mono"
+    },
+    {
+      "name": "Njörinvik™ Glowing Mono",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/e8/14224.png/120px-14224.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series OceanPower Mono",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/49/12593.png/120px-12593.png",
+      "description": ""
     },
     {
       "name": "Orange",
@@ -4843,27 +4963,267 @@
       "description": "Price Achievements reward: Tuna Tyrant Competitions reward: Tuna Banzai! , Marlin Tug of War! , Giant Grouper Roundup!"
     },
     {
+      "name": "X-Series CrystalPower Mono",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/43/31430.png/120px-31430.png",
+      "description": ""
+    },
+    {
+      "name": "Trophy OceanPower Mono",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/3c/12641.png/120px-12641.png",
+      "description": ""
+    },
+    {
+      "name": "Tsurihito™ Trophy CrystalPower Mono",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/20/13638.png/120px-13638.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series Glowing Mono",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/46/X-series-glowing-mono.png/120px-X-series-glowing-mono.png",
+      "description": ""
+    },
+    {
+      "name": "Club-Series Glowing Mono",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/56/E110e606-cae8-4a8b-b783-0289dd4ffa3d.png/120px-E110e606-cae8-4a8b-b783-0289dd4ffa3d.png",
+      "description": ""
+    },
+    {
+      "name": "Njörinvik™ Trophy Glowing Mono",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/de/14477.png/120px-14477.png",
+      "description": ""
+    },
+    {
+      "name": "Tsurihito™ ZenLine Braid",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/1/1f/12450.png/120px-12450.png",
+      "description": ""
+    },
+    {
+      "name": "Njörinvik™ Glowing Braid",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/4a/14273.png/120px-14273.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series ZenLine Braid",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/fe/12594.png/120px-12594.png",
+      "description": ""
+    },
+    {
+      "name": "Trophy ZenLine Braid",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/69/12648.png/120px-12648.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series Glowing Braid",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/1/18/14535.png/120px-14535.png",
+      "description": ""
+    },
+    {
+      "name": "Club-Series Glowing Braid",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/75/14661.png/120px-14661.png",
+      "description": ""
+    },
+    {
+      "name": "Trophy Glowing Braid",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/74/14480.png/120px-14480.png",
+      "description": ""
+    },
+    {
+      "name": "Tsurihito™ Kaigen Fluoro",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8b/13491.png/120px-13491.png",
+      "description": ""
+    },
+    {
+      "name": "Tsurihito™ X-Series Kaigen Fluoro",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/98/13476.png/120px-13476.png",
+      "description": ""
+    },
+    {
       "name": "Tsurihito™ Club-Series Kaigen Fluoro",
       "category": "Lines",
       "subCategory": "Saltwater lines",
       "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/55/13616.png/120px-13616.png",
       "description": "Tsurihito™ Club-Series Kaigen Fluoro"
+    },
+    {
+      "name": "Tsurihito™ Trophy Kaigen Fluoro",
+      "category": "Lines",
+      "subCategory": "Saltwater lines",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_lines",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/e1/13635.png/120px-13635.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Carolina Rig",
+      "category": "Rig",
+      "subCategory": "Carolina Rigs",
+      "url": "https://wiki.fishingplanet.com/wiki/Carolina_Rigs",
+      "image": "https://wiki.fishingplanet.com/images/thumb/a/af/7554.png/130px-7554.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ X-Series Carolina Rig",
+      "category": "Rig",
+      "subCategory": "Carolina Rigs",
+      "url": "https://wiki.fishingplanet.com/wiki/Carolina_Rigs",
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/cb/8668.png/200px-8668.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Mono Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/5d/6018.png/120px-6018.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Fluorocarbon Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/26/7911.png/130px-7911.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Titanium Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/86/7812.png/130px-7812.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Carp Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/23/6176.png/130px-6176.png",
+      "description": ""
     },
     {
       "name": "MagFin™ X-Series Fluorocarbon Leader",
       "category": "Rig",
       "subCategory": "Leaders",
       "url": "https://wiki.fishingplanet.com/wiki/Leaders",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d2/8664.png/200px-8664.png",
       "description": "MagFin™ X-Series Fluorocarbon Leader"
+    },
+    {
+      "name": "MagFin™ X-Series Titanium Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/b/bb/8662.png/200px-8662.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Veins Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/3c/Veins_Leader.png/200px-Veins_Leader.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ X-Series Carp Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/93/8660.png/200px-8660.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ X-Series Mono Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/72/10621.png/200px-10621.png",
+      "description": ""
+    },
+    {
+      "name": "Electrical Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d1/11316.png/200px-11316.png",
+      "description": ""
+    },
+    {
+      "name": "Adamant Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/66/11295.png/200px-11295.png",
+      "description": ""
+    },
+    {
+      "name": "Steel Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/c1/12933.png/200px-12933.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Horsehair Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/9f/13096.png/200px-13096.png",
+      "description": ""
     },
     {
       "name": "Tsurihito™ HinomaruClear Fluorocarbon Leader",
       "category": "Rig",
       "subCategory": "Leaders",
       "url": "https://wiki.fishingplanet.com/wiki/Leaders",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/91/12517.png/130px-12517.png",
       "description": "Tsurihito™ HinomaruClear Fluorocarbon Leader"
     },
     {
@@ -4871,7 +5231,7 @@
       "category": "Rig",
       "subCategory": "Leaders",
       "url": "https://wiki.fishingplanet.com/wiki/Leaders",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d4/14298.png/130px-14298.png",
       "description": "Tsurihito™ Colorful Fluorocarbon Leader"
     },
     {
@@ -4879,7 +5239,7 @@
       "category": "Rig",
       "subCategory": "Leaders",
       "url": "https://wiki.fishingplanet.com/wiki/Leaders",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d8/12592.png/200px-12592.png",
       "description": "Tsurihito™ X-Series HinomaruClear Fluorocarbon Leader"
     },
     {
@@ -4887,15 +5247,23 @@
       "category": "Rig",
       "subCategory": "Leaders",
       "url": "https://wiki.fishingplanet.com/wiki/Leaders",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/75/14537.png/200px-14537.png",
       "description": "Tsurihito™ X-Series Colorful Fluorocarbon Leader"
+    },
+    {
+      "name": "Njörinvik™ X-Series Steel Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/87/14540.png/200px-14540.png",
+      "description": ""
     },
     {
       "name": "Tsurihito™ Trophy HinomaruClear Fluorocarbon Leader",
       "category": "Rig",
       "subCategory": "Leaders",
       "url": "https://wiki.fishingplanet.com/wiki/Leaders",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/4f/12655.png/200px-12655.png",
       "description": "Tsurihito™ Trophy HinomaruClear Fluorocarbon Leader"
     },
     {
@@ -4903,16 +5271,88 @@
       "category": "Rig",
       "subCategory": "Leaders",
       "url": "https://wiki.fishingplanet.com/wiki/Leaders",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d0/14481.png/200px-14481.png",
       "description": "Tsurihito™ Trophy Colorful Fluorocarbon Leader"
+    },
+    {
+      "name": "Njörinvik™ Trophy Steel Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/7a/14484.png/200px-14484.png",
+      "description": ""
     },
     {
       "name": "Tsurihito™ Club-Series Colorful Fluorocarbon Leader",
       "category": "Rig",
       "subCategory": "Leaders",
       "url": "https://wiki.fishingplanet.com/wiki/Leaders",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/60/14658.png/200px-14658.png",
       "description": "Tsurihito™ Club-Series Colorful Fluorocarbon Leader"
+    },
+    {
+      "name": "Njörinvik™ Club-Series Steel Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/82/14663.png/200px-14663.png",
+      "description": ""
+    },
+    {
+      "name": "Njörinvik™ Steel Leader",
+      "category": "Rig",
+      "subCategory": "Leaders",
+      "url": "https://wiki.fishingplanet.com/wiki/Leaders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/f4/14354.png/130px-14354.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Texas Rig",
+      "category": "Rig",
+      "subCategory": "Texas Rigs",
+      "url": "https://wiki.fishingplanet.com/wiki/Texas_Rigs",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/5b/7600.png/130px-7600.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ X-Series Texas Rig",
+      "category": "Rig",
+      "subCategory": "Texas Rigs",
+      "url": "https://wiki.fishingplanet.com/wiki/Texas_Rigs",
+      "image": "https://wiki.fishingplanet.com/images/thumb/a/a9/8672.png/200px-8672.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Three-way Rig",
+      "category": "Rig",
+      "subCategory": "Three-way Rigs",
+      "url": "https://wiki.fishingplanet.com/wiki/Three-way_Rigs",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8d/7624.png/130px-7624.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ X-Series Three-way Rig",
+      "category": "Rig",
+      "subCategory": "Three-way Rigs",
+      "url": "https://wiki.fishingplanet.com/wiki/Three-way_Rigs",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/2a/8670.png/200px-8670.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Carp Hook",
+      "category": "Hooks",
+      "subCategory": "Carp Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Carp_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/6b/5907.png/150px-5907.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ X-Series Carp Hook",
+      "category": "Hooks",
+      "subCategory": "Carp Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Carp_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/6e/6490.png/150px-6490.png",
+      "description": ""
     },
     {
       "name": "X-Series JigHead",
@@ -4955,19 +5395,59 @@
       "description": "DLC: Fishing Planet: Green Fortune Event Pack"
     },
     {
+      "name": "MagFin™ Offset Hook",
+      "category": "Hooks",
+      "subCategory": "Offset Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Offset_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/24/7475.png/130px-7475.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ X-Series Offset Hook",
+      "category": "Hooks",
+      "subCategory": "Offset Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Offset_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/9e/8666.png/150px-8666.png",
+      "description": ""
+    },
+    {
       "name": "Fletch and Bradford™ Fabulous Point Hook",
       "category": "Hooks",
       "subCategory": "Saltwater Hooks",
       "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Hooks",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/0/02/12527.png/130px-12527.png",
       "description": "Fletch and Bradford™ Fabulous Point Hook"
+    },
+    {
+      "name": "Tsurihito™ Saltwater Curved Hook",
+      "category": "Hooks",
+      "subCategory": "Saltwater Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/b/b9/12529.png/130px-12529.png",
+      "description": ""
+    },
+    {
+      "name": "Tsurihito™ Kaku Tsuribari Hook",
+      "category": "Hooks",
+      "subCategory": "Saltwater Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/de/31849.png/130px-31849.png",
+      "description": ""
+    },
+    {
+      "name": "Tungsten™ Golden Hook",
+      "category": "Hooks",
+      "subCategory": "Saltwater Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/3d/14383.png/130px-14383.png",
+      "description": ""
     },
     {
       "name": "Fletch and Bradford™ X-Series Fabulous Point Hook",
       "category": "Hooks",
       "subCategory": "Saltwater Hooks",
       "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Hooks",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/96/12595.png/150px-12595.png",
       "description": "Fletch and Bradford™ X-Series Fabulous Point Hook"
     },
     {
@@ -4975,7 +5455,7 @@
       "category": "Hooks",
       "subCategory": "Saltwater Hooks",
       "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Hooks",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8c/12663.png/150px-12663.png",
       "description": "Fletch and Bradford™ Trophy Fabulous Point Hook"
     },
     {
@@ -4983,7 +5463,7 @@
       "category": "Hooks",
       "subCategory": "Saltwater Hooks",
       "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Hooks",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/96/30862.png/130px-30862.png",
       "description": "Fletch and Bradford™ Livebait Trolling Hook"
     },
     {
@@ -4991,24 +5471,424 @@
       "category": "Hooks",
       "subCategory": "Saltwater Hooks",
       "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Hooks",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8a/Razor_Trolling_Hook.png/150px-Razor_Trolling_Hook.png",
       "description": "Fletch and Bradford™ Razor Trolling Hook #15/0"
+    },
+    {
+      "name": "MagFin™ Kirby",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/6e/Kirby16.png/130px-Kirby16.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Octopus",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/e9/Octopus1.png/150px-Octopus1.png",
+      "description": ""
+    },
+    {
+      "name": "RIVERTEX™ Catfish",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/5c/Catfish4-0.png/150px-Catfish4-0.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Cap'n Hook",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/24/10524.png/130px-10524.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Barbless Kirby",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/ce/BKirby10.png/150px-BKirby10.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ Barbless Octopus",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/1/11/BOctopus1.png/150px-BOctopus1.png",
+      "description": ""
+    },
+    {
+      "name": "RIVERTEX™ Barbless Catfish",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/36/BCatfish4-0.png/150px-BCatfish4-0.png",
+      "description": ""
+    },
+    {
+      "name": "RIVERTEX™ X-Series Hook",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/1/1f/3089.png/150px-3089.png",
+      "description": ""
+    },
+    {
+      "name": "RIVERTEX™ X-Series Barbless Hook",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/a/a1/3091.png/150px-3091.png",
+      "description": ""
+    },
+    {
+      "name": "Hawk Claw",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/39/4994.png/150px-4994.png",
+      "description": ""
+    },
+    {
+      "name": "Vulture Claw&#160;",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/88/4996.png/150px-4996.png",
+      "description": ""
+    },
+    {
+      "name": "Eagle Claw",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/2a/4998.png/150px-4998.png",
+      "description": ""
+    },
+    {
+      "name": "Pike Bone Hook",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/e5/7750.png/150px-7750.png",
+      "description": ""
+    },
+    {
+      "name": "MagFin™ X-Series Cap'n Hook",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/2f/10613.png/150px-10613.png",
+      "description": ""
+    },
+    {
+      "name": "Fishtooth Hook",
+      "category": "Hooks",
+      "subCategory": "Simple Hooks",
+      "url": "https://wiki.fishingplanet.com/wiki/Simple_Hooks",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8b/11305.png/150px-11305.png",
+      "description": ""
+    },
+    {
+      "name": "Open Feeder",
+      "category": "Sinker and Feeders",
+      "subCategory": "Cage Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Cage_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/65/5317.png/200px-5317.png",
+      "description": ""
+    },
+    {
+      "name": "Closed Feeder",
+      "category": "Sinker and Feeders",
+      "subCategory": "Cage Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Cage_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/57/5315.png/200px-5315.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series Open Feeder",
+      "category": "Sinker and Feeders",
+      "subCategory": "Cage Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Cage_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/83/5632.png/200px-5632.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series Closed Feeder",
+      "category": "Sinker and Feeders",
+      "subCategory": "Cage Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Cage_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/96/5636.png/200px-5636.png",
+      "description": ""
+    },
+    {
+      "name": "Trophy Close Feeder",
+      "category": "Sinker and Feeders",
+      "subCategory": "Cage Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Cage_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8e/6942.png/200px-6942.png",
+      "description": ""
+    },
+    {
+      "name": "Feeder Gingerbread House",
+      "category": "Sinker and Feeders",
+      "subCategory": "Cage Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Cage_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/1/11/9368.png/200px-9368.png",
+      "description": ""
+    },
+    {
+      "name": "Rusty Cage Feeder",
+      "category": "Sinker and Feeders",
+      "subCategory": "Cage Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Cage_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/0/0a/13083.png/200px-13083.png",
+      "description": ""
+    },
+    {
+      "name": "Rudolph Antlers Catapult",
+      "category": "Sinker and Feeders",
+      "subCategory": "Catapults",
+      "url": "https://wiki.fishingplanet.com/wiki/Catapults",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/51/Rudolph_Antlers_Catapult.png/200px-Rudolph_Antlers_Catapult.png",
+      "description": ""
+    },
+    {
+      "name": "Ballisto Groundbait Catapult",
+      "category": "Sinker and Feeders",
+      "subCategory": "Catapults",
+      "url": "https://wiki.fishingplanet.com/wiki/Catapults",
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/3c/9353.png/200px-9353.png",
+      "description": ""
     },
     {
       "name": "X-Series Ballisto Groundbait Catapult",
       "category": "Sinker and Feeders",
       "subCategory": "Catapults",
       "url": "https://wiki.fishingplanet.com/wiki/Catapults",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/ea/9355.png/200px-9355.png",
       "description": "X-Series Ballisto Groundbait Catapult"
+    },
+    {
+      "name": "UL-CHUBER™ Flat Feeder",
+      "category": "Sinker and Feeders",
+      "subCategory": "Flat Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Flat_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/0/04/6196.png/150px-6196.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ PVA Bags",
+      "category": "Sinker and Feeders",
+      "subCategory": "PVA Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/PVA_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/a/a4/6228.png/150px-6228.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ PVA Bags Golden",
+      "category": "Sinker and Feeders",
+      "subCategory": "PVA Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/PVA_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8c/6811.png/150px-6811.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ PVA Mesh",
+      "category": "Sinker and Feeders",
+      "subCategory": "PVA Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/PVA_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/21/6234.png/150px-6234.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ PVA Mesh Golden",
+      "category": "Sinker and Feeders",
+      "subCategory": "PVA Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/PVA_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/7d/6817.png/150px-6817.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ X-Series PVA Bag",
+      "category": "Sinker and Feeders",
+      "subCategory": "PVA Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/PVA_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/ef/8674.png/150px-8674.png",
+      "description": ""
+    },
+    {
+      "name": "Pyramid Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Saltwater Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/53/12506.png/200px-12506.png",
+      "description": ""
+    },
+    {
+      "name": "Cannonball Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Saltwater Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/0/03/12507.png/200px-12507.png",
+      "description": ""
+    },
+    {
+      "name": "Snapper Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Saltwater Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/28/12508.png/200px-12508.png",
+      "description": ""
+    },
+    {
+      "name": "Storm Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Saltwater Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/2/23/13475.png/200px-13475.png",
+      "description": ""
+    },
+    {
+      "name": "Head Starter Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Saltwater Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/39/12525.png/200px-12525.png",
+      "description": ""
+    },
+    {
+      "name": "Tungsten™ Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Saltwater Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/9c/14222.png/200px-14222.png",
+      "description": ""
+    },
+    {
+      "name": "Trophy Cannonball Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Saltwater Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Saltwater_Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d8/12657.png/200px-12657.png",
+      "description": ""
+    },
+    {
+      "name": "Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/84/5112.png/200px-5112.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Carp Camouflage Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/64/6052.png/200px-6052.png",
+      "description": ""
+    },
+    {
+      "name": "Bullet Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/4b/7454.png/200px-7454.png",
+      "description": ""
+    },
+    {
+      "name": "Drop Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/57/7541.png/200px-7541.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8c/5622.png/200px-5622.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series Bullet Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/f7/8677.png/200px-8677.png",
+      "description": ""
+    },
+    {
+      "name": "X-Series Drop Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/36/8679.png/200px-8679.png",
+      "description": ""
+    },
+    {
+      "name": "Speaker Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8b/11307.png/200px-11307.png",
+      "description": ""
+    },
+    {
+      "name": "Monkey Skull Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/f0/13086.png/200px-13086.png",
+      "description": ""
+    },
+    {
+      "name": "Shining Head Starter Sinker",
+      "category": "Sinker and Feeders",
+      "subCategory": "Sinkers",
+      "url": "https://wiki.fishingplanet.com/wiki/Sinkers",
+      "image": "https://wiki.fishingplanet.com/images/thumb/a/a5/Shining_Head_Starter_Sinker_170_g.png/200px-Shining_Head_Starter_Sinker_170_g.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Spod",
+      "category": "Sinker and Feeders",
+      "subCategory": "Spod Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Spod_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/ec/6212.png/150px-6212.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Spod Prem",
+      "category": "Sinker and Feeders",
+      "subCategory": "Spod Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Spod_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/0/05/6807.png/150px-6807.png",
+      "description": ""
     },
     {
       "name": "UL-CHUBER™ Trophy X Large Long Cast Spod",
       "category": "Sinker and Feeders",
       "subCategory": "Spod Feeders",
       "url": "https://wiki.fishingplanet.com/wiki/Spod_Feeders",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/1/13/6944.png/150px-6944.png",
       "description": "UL-CHUBER™ Trophy X Large Long Cast Spod"
+    },
+    {
+      "name": "Coffin-Spod",
+      "category": "Sinker and Feeders",
+      "subCategory": "Spod Feeders",
+      "url": "https://wiki.fishingplanet.com/wiki/Spod_Feeders",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/88/11893.png/150px-11893.png",
+      "description": ""
     },
     {
       "name": "Watermelon",
@@ -9735,7 +10615,7 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/98/6240.png/110px-6240.png",
       "description": "UL-CHUBER™ Sinking Boilies 1\" (25 mm)"
     },
     {
@@ -9743,7 +10623,7 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/cc/6252.png/110px-6252.png",
       "description": "UL-CHUBER™ Sinking Boilies 6\" (15 mm)"
     },
     {
@@ -9751,7 +10631,7 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/96/6621.png/110px-6621.png",
       "description": "UL-CHUBER™ Sinking Boilies 1\" (25 mm) Golden"
     },
     {
@@ -9759,7 +10639,7 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/cf/6272.png/110px-6272.png",
       "description": "UL-CHUBER™ Pop-up Boilies 8\" (20 mm)"
     },
     {
@@ -9767,7 +10647,7 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/45/6292.png/110px-6292.png",
       "description": "UL-CHUBER™ Pop-up Boilies 4\" (10 mm)"
     },
     {
@@ -9775,7 +10655,7 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/fc/6645.png/110px-6645.png",
       "description": "UL-CHUBER™ Pop-up Boilies 8\" (20 mm) Golden"
     },
     {
@@ -9783,7 +10663,7 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/fb/6306.png/110px-6306.png",
       "description": "UL-CHUBER™ Sinking Pellets 6\" (14 mm)"
     },
     {
@@ -9791,7 +10671,7 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/4e/6343.png/110px-6343.png",
       "description": "UL-CHUBER™ Sinking Pellets 3\" (8 mm)"
     },
     {
@@ -9799,7 +10679,7 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/3c/6669.png/110px-6669.png",
       "description": "UL-CHUBER™ Sinking Pellets 6\" (14 mm) Golden"
     },
     {
@@ -9807,15 +10687,23 @@
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/9f/6331.png/110px-6331.png",
       "description": "UL-CHUBER™ Pop-up Pellets 6\" (14 mm)"
+    },
+    {
+      "name": "UL-CHUBER™ Pop-up Pellets 3\" (8 mm)",
+      "category": "Baits",
+      "subCategory": "Boilies &amp; Pellets Baits",
+      "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
+      "image": "https://wiki.fishingplanet.com/images/thumb/7/77/6355.png/110px-6355.png",
+      "description": ""
     },
     {
       "name": "UL-CHUBER™ Pop-up Pellets 6\" (14 mm) Golden",
       "category": "Baits",
       "subCategory": "Boilies &amp; Pellets Baits",
       "url": "https://wiki.fishingplanet.com/wiki/Boilies_%26_Pellets_Baits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/cb/6693.png/110px-6693.png",
       "description": "UL-CHUBER™ Pop-up Pellets 6\" (14 mm) Golden"
     },
     {
@@ -10247,7 +11135,7 @@
       "category": "Groundbaits",
       "subCategory": "Carp Groundbaits",
       "url": "https://wiki.fishingplanet.com/wiki/Carp_Groundbaits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/c4/6268.png/110px-6268.png",
       "description": "UL-CHUBER™ Boilies Groundbait .7\" (18 mm)"
     },
     {
@@ -10255,7 +11143,7 @@
       "category": "Groundbaits",
       "subCategory": "Carp Groundbaits",
       "url": "https://wiki.fishingplanet.com/wiki/Carp_Groundbaits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/b/ba/6367.png/110px-6367.png",
       "description": "UL-CHUBER™ Boilies Groundbait .35\" (9 mm)"
     },
     {
@@ -10263,7 +11151,7 @@
       "category": "Groundbaits",
       "subCategory": "Carp Groundbaits",
       "url": "https://wiki.fishingplanet.com/wiki/Carp_Groundbaits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/3/38/6717.png/110px-6717.png",
       "description": "UL-CHUBER™ Boilies Groundbait Golden .7\" (18 mm)"
     },
     {
@@ -10271,7 +11159,7 @@
       "category": "Groundbaits",
       "subCategory": "Carp Groundbaits",
       "url": "https://wiki.fishingplanet.com/wiki/Carp_Groundbaits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/b/ba/6394.png/110px-6394.png",
       "description": "UL-CHUBER™ Pellets Groundbait .24\" (6 mm)"
     },
     {
@@ -10279,7 +11167,7 @@
       "category": "Groundbaits",
       "subCategory": "Carp Groundbaits",
       "url": "https://wiki.fishingplanet.com/wiki/Carp_Groundbaits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/49/6421.png/110px-6421.png",
       "description": "UL-CHUBER™ Pellets Groundbait .12\" (3 mm)"
     },
     {
@@ -10287,16 +11175,216 @@
       "category": "Groundbaits",
       "subCategory": "Carp Groundbaits",
       "url": "https://wiki.fishingplanet.com/wiki/Carp_Groundbaits",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/f0/6741.png/110px-6741.png",
       "description": "UL-CHUBER™ Pellets Groundbait Golden .24\" (6 mm)"
+    },
+    {
+      "name": "UL-CHUBER™ Spod Mix",
+      "category": "Groundbaits",
+      "subCategory": "Carp Groundbaits",
+      "url": "https://wiki.fishingplanet.com/wiki/Carp_Groundbaits",
+      "image": "https://wiki.fishingplanet.com/images/thumb/0/09/6471.png/120px-6471.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Spod Mix Golden",
+      "category": "Groundbaits",
+      "subCategory": "Carp Groundbaits",
+      "url": "https://wiki.fishingplanet.com/wiki/Carp_Groundbaits",
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/f8/6765.png/120px-6765.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Crimson Cold Water",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/ea/Crimson_Cold_Water.png/120px-Crimson_Cold_Water.png",
+      "description": ""
+    },
+    {
+      "name": "Flaggmann™ Active Feeder",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/a/a1/Active_Feeder.png/120px-Active_Feeder.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER Black Roacher",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/6b/Black_Roacher.png/120px-Black_Roacher.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER Universal Mixture",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/fa/Universal_Mixture.png/120px-Universal_Mixture.png",
+      "description": ""
+    },
+    {
+      "name": "Flaggmann™ Grand Fish Feeder",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/8d/Grand_Fish_Feeder.png/120px-Grand_Fish_Feeder.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER Big Riverine Breamer",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/80/Big_Riverine_Breamer.png/120px-Big_Riverine_Breamer.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER Carp Rival",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/43/Carp_Rival.png/120px-Carp_Rival.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER Catfish Destroyer",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/ce/Catfish_Destroyer.png/120px-Catfish_Destroyer.png",
+      "description": ""
+    },
+    {
+      "name": "Gingerbread Classic Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/ed/12961.png/120px-12961.png",
+      "description": ""
+    },
+    {
+      "name": "Corn Sticks Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/f8/12962.png/120px-12962.png",
+      "description": ""
+    },
+    {
+      "name": "Mamaliha",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/1/1e/12963.png/120px-12963.png",
+      "description": ""
+    },
+    {
+      "name": "Geyser Mulinex",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/4c/12973.png/120px-12973.png",
+      "description": ""
+    },
+    {
+      "name": "Pure Snow",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/b/b4/8121.png/120px-8121.png",
+      "description": ""
     },
     {
       "name": "Trash Groundbait Available only for The Fisherman Fishing Planet",
       "category": "Groundbaits",
       "subCategory": "Groundbait-base",
       "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/8/85/7744.png/120px-7744.png",
       "description": "Trash Groundbait Available only for The Fisherman Fishing Planet"
+    },
+    {
+      "name": "Stomach Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/0/02/7746.png/120px-7746.png",
+      "description": ""
+    },
+    {
+      "name": "Mega Cookie Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/a/a5/9367.png/120px-9367.png",
+      "description": ""
+    },
+    {
+      "name": "Ghost Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/f/fe/11904.png/120px-11904.png",
+      "description": ""
+    },
+    {
+      "name": "Infernal Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/68/11902.png/120px-11902.png",
+      "description": ""
+    },
+    {
+      "name": "Witch Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/e/ef/11900.png/120px-11900.png",
+      "description": ""
+    },
+    {
+      "name": "Firefly Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/9/93/13094.png/120px-13094.png",
+      "description": ""
+    },
+    {
+      "name": "Rice Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/5/5c/13093.png/120px-13093.png",
+      "description": ""
+    },
+    {
+      "name": "Cookies and Mussels Groundbait",
+      "category": "Groundbaits",
+      "subCategory": "Groundbait-base",
+      "url": "https://wiki.fishingplanet.com/wiki/Groundbait-base",
+      "image": "https://wiki.fishingplanet.com/images/thumb/6/64/13289.png/120px-13289.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Method Mix",
+      "category": "Groundbaits",
+      "subCategory": "Method Mix Groundbaits",
+      "url": "https://wiki.fishingplanet.com/wiki/Method_Mix_Groundbaits",
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/c1/6459.png/120px-6459.png",
+      "description": ""
+    },
+    {
+      "name": "UL-CHUBER™ Method Mix Golden",
+      "category": "Groundbaits",
+      "subCategory": "Method Mix Groundbaits",
+      "url": "https://wiki.fishingplanet.com/wiki/Method_Mix_Groundbaits",
+      "image": "https://wiki.fishingplanet.com/images/thumb/0/07/6771.png/120px-6771.png",
+      "description": ""
     },
     {
       "name": "HobbyGear",
@@ -10535,7 +11623,7 @@
       "category": "Equipment",
       "subCategory": "Stringers and Keepnets",
       "url": "https://wiki.fishingplanet.com/wiki/Stringers_and_Keepnets",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d8/2204.png/200px-2204.png",
       "description": "The Magfin Fish Stringer is designed to hold fish and keep them alive in freshwater. Using the special Magfin needle, the snap is threaded through the fish gill and out through its mouth which allows the fish to breath freely though its gills. The vinyl-coated stainless steel cable provides high strength and durability. Despite all the advantages of fish stringer, it could damage fish. So, if you are going to release the fish at the end of your fishing trip, you should better take a Keepnet."
     },
     {
@@ -10543,7 +11631,7 @@
       "category": "Equipment",
       "subCategory": "Stringers and Keepnets",
       "url": "https://wiki.fishingplanet.com/wiki/Stringers_and_Keepnets",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d8/2204.png/200px-2204.png",
       "description": "This exclusive Halloween edition stringer is every fish's nightmare! Keep your catch and rest assured - it isn't going anywhere."
     },
     {
@@ -10551,7 +11639,7 @@
       "category": "Equipment",
       "subCategory": "Stringers and Keepnets",
       "url": "https://wiki.fishingplanet.com/wiki/Stringers_and_Keepnets",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d8/2204.png/200px-2204.png",
       "description": "Enslaver™ is a fish stringer that belongs to the ultimate X-Series stringer meant exclusively for Tournament winners. Features more fish-holding capacity than any other stinger!"
     },
     {
@@ -10559,7 +11647,7 @@
       "category": "Equipment",
       "subCategory": "Stringers and Keepnets",
       "url": "https://wiki.fishingplanet.com/wiki/Stringers_and_Keepnets",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/4/4a/8694.png/200px-8694.png",
       "description": "Here is a precious (literally!) find! This magic Stringer is forged from leprechauns' gold. Now, even the very nimble trophy has no chance to escape. With such chic tackle, you will free the ponds from the dominance of the Snakeheads in a snap."
     },
     {
@@ -10567,7 +11655,7 @@
       "category": "Equipment",
       "subCategory": "Stringers and Keepnets",
       "url": "https://wiki.fishingplanet.com/wiki/Stringers_and_Keepnets",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/d/d9/13100.png/200px-13100.png",
       "description": "This stringer, crafted from the ancient spine of an unknown creature, seems to have absorbed the power of the dead. Rigid yet flexible, it withstands the pressure of the fiercest fish. Legends say that the soul of the being to whom this spine once belonged lives within it and that every fish caught becomes its new victim."
     },
     {
@@ -10575,7 +11663,7 @@
       "category": "Equipment",
       "subCategory": "Stringers and Keepnets",
       "url": "https://wiki.fishingplanet.com/wiki/Stringers_and_Keepnets",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/c8/1105.png/200px-1105.png",
       "description": "Garry Scott Fish Keepnet is designed to securely store your catch without hurting the fish. Featuring a soft mesh and high quality thread, this keepnet is completely fish-friendly and will provide safe and comfortable storage for your fish. Garry Scott Keepnet is also extremely durable and built to last!"
     },
     {
@@ -10583,7 +11671,7 @@
       "category": "Equipment",
       "subCategory": "Stringers and Keepnets",
       "url": "https://wiki.fishingplanet.com/wiki/Stringers_and_Keepnets",
-      "image": null,
+      "image": "https://wiki.fishingplanet.com/images/thumb/c/c8/1105.png/200px-1105.png",
       "description": "FishTanker™ is a fish-friendly keepnet that belongs to the ultimate X-Series tackle designed exclusively for Tournament winners. Features more fish-holding capacity than any other keepnet!"
     },
     {
