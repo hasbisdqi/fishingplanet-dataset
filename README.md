@@ -9,9 +9,9 @@ Dataset lengkap spesies ikan (*fish*), peralatan pancing (*gear / tackle*), dan 
 | File | Keterangan | Total Entri |
 |---|---|---|
 | `fish.json` | Seluruh spesies ikan di Fishing Planet | 340 spesies |
-| `gear.json` | Seluruh tackle & perlengkapan pancing (100% with image) | 1.413 item |
+| `gear.json` | Seluruh tackle & perlengkapan pancing (100% with image) | 1.464 item |
 | `maps.json` | Seluruh peta/lokasi danau, sungai, dan laut | 28 map |
-| `fishingplanet_all.json` | Gabungan data ikan, gear, dan map | 1.781 item |
+| `fishingplanet_all.json` | Gabungan data ikan, gear, dan map | 1.832 item |
 
 ---
 
@@ -31,12 +31,12 @@ Dataset lengkap spesies ikan (*fish*), peralatan pancing (*gear / tackle*), dan 
 ### 2. Gear / Tackle (`gear.json`)
 ```json
 {
-  "name": "MagFin™ FeatherLight",
-  "category": "Rods",
-  "subCategory": "Spinning rods",
-  "url": "https://wiki.fishingplanet.com/wiki/Spinning_rods",
-  "image": "https://wiki.fishingplanet.com/images/f/f9/FeatherLight.png",
-  "description": "Part of our PrimeSpinn® lux line rod segment..."
+  "name": "Slim (Natural / Red / Green)",
+  "category": "Bobbers and Fishing Alarm",
+  "subCategory": "Classic Bobbers",
+  "url": "https://wiki.fishingplanet.com/wiki/Classic_Bobbers",
+  "image": "https://wiki.fishingplanet.com/images/thumb/e/e1/115.png/200px-115.png",
+  "description": "Slim Floats are made of high-quality plastic, allowing gentle presentations and smooth drifts..."
 }
 ```
 
